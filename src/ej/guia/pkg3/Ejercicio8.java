@@ -16,6 +16,7 @@ import java.util.Scanner;
 public class Ejercicio8 {
     private int numero;
     
+    
     /*public Ejercicio8(int numero){
         this.numero=numero;
     }*/
