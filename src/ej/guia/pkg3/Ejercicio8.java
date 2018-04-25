@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ej.guia.pkg3;
+/*package ej.guia.pkg3;
 
 import java.util.ArrayList;
 
@@ -13,7 +13,7 @@ import java.util.Scanner;
  *  
  * @author nitroskate
  */
-public class Ejercicio8 {
+/*public class Ejercicio8 {
 
     public Ejercicio8(){
         
@@ -30,3 +30,6 @@ public class Ejercicio8 {
     }
     
 }
+*/
+
+CHINO QLERO
