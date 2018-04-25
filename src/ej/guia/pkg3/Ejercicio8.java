@@ -25,6 +25,7 @@ public class Ejercicio8 {
         for(int i=0;i<l;i++){
             System.out.println("Ingrese un numero: ");
             list.add(input.nextDouble());
+            //Puta madre con vos
         }
     }
     
