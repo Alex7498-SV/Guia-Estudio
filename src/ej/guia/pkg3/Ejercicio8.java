@@ -14,8 +14,8 @@ import java.util.Scanner;
  * @author nitroskate
  */
 public class Ejercicio8 {
-    private int numero;
-    
+    int numero;
+    // hola que hace chino
     
     /*public Ejercicio8(int numero){
         this.numero=numero;
@@ -38,3 +38,4 @@ public class Ejercicio8 {
     }
     
 }
+// TE LA METIEROOOOOOOONNN , AHORA SI TE LA METISTEEEEEEEEEEE
