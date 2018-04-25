@@ -34,7 +34,7 @@ public class Ejercicio8 {
     }*/
     public void Lista(){
         ArrayList<int> list= new ArrayList();
-        
+        //Aqui la cague
     }
     
 }
