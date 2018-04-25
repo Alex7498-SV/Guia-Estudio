@@ -67,8 +67,9 @@ public class EjGuia3 {
                 break;
             case 8:
                 Ejercicio8 ej8 = new Ejercicio8();
+                System.out.println("Ingrese el maximo de valores en la lista: ");
                 maximo = input.nextInt();
-                
+                ej8.Lista(maximo);
                           
                 break;
             }

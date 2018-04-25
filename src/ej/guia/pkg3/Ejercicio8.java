@@ -10,31 +10,22 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- *
+ *  
  * @author nitroskate
  */
 public class Ejercicio8 {
-    private int numero;
-    
-    
-    /*public Ejercicio8(int numero){
-        this.numero=numero;
-    }*/
-    
+
     public Ejercicio8(){
         
     }
     
-    /*public void setNumero(int numero){
-        this.numero=numero;
-    }
-    
-    public int getNumero(){
-        return numero;
-    }*/
-    public void Lista(){
-        ArrayList<int> list= new ArrayList();
-        //Aqui la cague
+    public void Lista(int l){
+        Scanner input= new Scanner(System.in);
+        ArrayList<Double> list= new ArrayList();
+        for(int i=0;i<l;i++){
+            System.out.println("Ingrese un numero: ");
+            list.add(input.nextDouble());
+        }
     }
     
 }
